@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: cont1
-image: docker.io/cronosm4m/jentype:10
+image: docker.io/cronosm4m/jentype:11
 
 
 
